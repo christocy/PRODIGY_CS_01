@@ -36,7 +36,4 @@ Input: KHOOR
 Shift: 3
 Output: HELLO
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 This project was developed as part of a virtual internship at Prodigy InfoTech.
