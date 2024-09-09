@@ -14,15 +14,21 @@ To run this program, you'll need Python installed on your system. You can downlo
 Clone this repository to your local machine using:
 
 git clone https://github.com/christocy/PRODIGY_CS_01.git
+
 Navigate to the project directory:
 
 cd PRODIGY_CS_01
+
 How to Use
 
 Run the program.
+
 Choose 'encrypt(e)' or 'decrypt(d)':
+
 Enter the message: 
+
 Enter the shift value (positive integer): 
+
 Get the encrypted or decrypted message.
 
 Example
