@@ -12,9 +12,9 @@ Installation
 To run this program, you'll need Python installed on your system. You can download Python from python.org.
 
 Clone this repository to your local machine using:
-         git clone https://github.com/christocy/PRODIGY_CS_01-Caesar_Cipher.git
+git clone https://github.com/christocy/PRODIGY_CS_01-Caesar_Cipher.git
 Navigate to the project directory:
-         cd PRODIGY_CS_01-Caesar_Cipher
+cd PRODIGY_CS_01-Caesar_Cipher
 
 How to Use
 
