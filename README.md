@@ -3,12 +3,13 @@ Caesar Cipher Encryption/Decryption project
 
 This project implements a simple Caesar cipher encryption/decryption tool using Python. The tool allows the user to shift letters in a message by a specified number, with the option to either encrypt or decrypt the message.
 
-Features
+## Features
 Encrypt messages using the Caesar Cipher technique.
 Decrypt messages that were encrypted using the Caesar Cipher.
 User-friendly interface with options to choose between encryption and decryption.
 Ability to handle both uppercase and lowercase letters, as well as non-alphabetic characters.
-Installation
+
+## Installation
 To run this program, you'll need Python installed on your system. You can download Python from python.org.
 
 Clone this repository to your local machine using:
@@ -19,7 +20,7 @@ Navigate to the project directory:
 
 cd PRODIGY_CS_01
 
-How to Use
+## How to Use
 
 Run the program.
 
@@ -31,7 +32,7 @@ Enter the shift value (positive integer):
 
 Get the encrypted or decrypted message.
 
-Example
+## Example
 
 Encrypting the message "HELLO" with a shift of 3:
 Input: HELLO
